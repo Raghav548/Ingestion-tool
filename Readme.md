@@ -51,7 +51,7 @@ clickhouse-ingestion/
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/clickhouse-ingestion.git
+git clone https://github.com/Raghav548/Ingestion-tool.git
 cd clickhouse-ingestion-app
 ```
 
