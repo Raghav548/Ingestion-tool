@@ -1,0 +1,46 @@
+💬 Prompts Used to Develop This Project
+Below are some of the key prompts used to generate various components and logic of this application using ChatGPT:
+
+📌 Project Planning & Setup
+"Help me plan a project to build a bidirectional data ingestion tool between ClickHouse and flat files using Java."
+
+"Suggest a folder structure for a Spring Boot + React full-stack application."
+
+"How do I connect to ClickHouse Cloud using JDBC from a Spring Boot application?"
+
+⚙️ Backend Development
+"Generate backend code for testing connection to ClickHouse using JDBC, including JWT authentication."
+
+"Write a Spring Boot REST API controller that takes JDBC URL, user, and JWT token to test the ClickHouse connection."
+
+"How to handle SQL exceptions and return custom error messages in a Spring Boot REST controller?"
+
+"Create a service method to ingest data from a flat file (CSV) into a selected ClickHouse table with column mapping."
+
+💻 Frontend Development
+"Create a React component to upload a CSV file and display its column names as checkboxes."
+
+"How to fetch and display ClickHouse table names from the backend in a dropdown?"
+
+"Update the frontend to include a status bar, result message, and progress bar during ingestion."
+
+"Show preview of the first 100 rows from a selected CSV file in a styled table."
+
+🧪 Testing & Error Handling
+"Test invalid credentials and show appropriate error messages for failed ClickHouse connection."
+
+"How to catch and display connection errors like wrong JDBC URL or wrong password on the frontend?"
+
+"Improve error messages in both backend and frontend for better user feedback."
+
+🎨 Styling & UX
+"Write CSS to style a dark-themed card layout with large fonts, rounded buttons, and clean spacing."
+
+"Make the form elements like input, buttons, and progress bar more modern and readable."
+
+"How to create a responsive layout in React for table preview and file uploads?"
+
+📄 Documentation
+"Generate a complete README.md file for a Java + React ClickHouse ingestion tool with features and setup steps."
+
+"List the prompts I used to create this project with ChatGPT so I can document them in my README."
